@@ -52,7 +52,7 @@
 
         <div class="relative bg-gray-900 border-b border-gray-800 py-16 sm:py-24">
             <div class="absolute inset-0 bg-gradient-to-br from-indigo-900/20 via-transparent to-purple-900/20"></div>
-            <div class="absolute inset-0 bg-[url('https://storage.waifuwall.com/assets/pattern.svg')] opacity-5"></div>
+            <div class="absolute inset-0 opacity-5"></div>
 
             <div class="container mx-auto px-4 sm:px-6 lg:px-8 relative z-10 text-center">
                 <h1 class="text-4xl md:text-6xl font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-cyan-400 to-blue-500 mb-4 tracking-tight">

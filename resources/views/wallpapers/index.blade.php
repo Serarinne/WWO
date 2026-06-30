@@ -53,7 +53,7 @@
         @if($latestWallpapers->currentPage() == 1)
             <div class="relative bg-gray-900 py-20 lg:py-32 overflow-hidden border-b border-gray-800">
                 <div class="absolute inset-0">
-                    <div class="absolute inset-0 bg-[url('https://storage.waifuwall.com/assets/pattern.svg')] opacity-5"></div>
+                    <div class="absolute inset-0 opacity-5"></div>
                     <div class="absolute top-0 left-1/4 w-96 h-96 bg-cyan-600/20 rounded-full blur-[128px]"></div>
                     <div class="absolute bottom-0 right-1/4 w-96 h-96 bg-purple-600/20 rounded-full blur-[128px]"></div>
                     <div class="absolute inset-0 bg-gradient-to-b from-transparent to-[#0f172a]"></div>

@@ -55,7 +55,7 @@
              {{-- Background Decorations --}}
              <div class="absolute top-0 left-1/4 w-[600px] h-[600px] bg-cyan-900/10 blur-[120px] rounded-full pointer-events-none -z-10"></div>
              <div class="absolute bottom-0 right-1/4 w-[600px] h-[600px] bg-purple-900/10 blur-[120px] rounded-full pointer-events-none -z-10"></div>
-             <div class="absolute inset-0 bg-[url('https://storage.waifuwall.com/assets/pattern.svg')] opacity-5"></div>
+             <div class="absolute inset-0 opacity-5"></div>
 
              <div class="container mx-auto px-4 sm:px-6 lg:px-8 relative z-10 text-center">
                 <h1 class="text-3xl md:text-5xl font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-cyan-400 to-purple-500 mb-6 tracking-tight">
