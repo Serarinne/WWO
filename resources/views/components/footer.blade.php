@@ -4,7 +4,7 @@
 
             <div class="flex flex-col items-center md:items-start text-center md:text-left space-y-2">
                 <a href="{{ route('home') }}" class="flex items-center gap-2 group mb-1">
-                    <img src="https://storage.ntewallpapers.com/assets/logo.png" alt="{{ env('APP_NAME') }}" class="h-8 w-auto grayscale group-hover:grayscale-0 transition-all duration-300">
+                    <img src="https://storage.waifuwall.com/assets/logo.png" alt="{{ env('APP_NAME') }}" class="h-8 w-auto grayscale group-hover:grayscale-0 transition-all duration-300">
                     <span class="text-lg font-bold text-gray-100 group-hover:text-white transition-colors">{{ env('APP_NAME') }}</span>
                 </a>
 

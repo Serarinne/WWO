@@ -10,7 +10,7 @@
         
         <div class="flex items-center gap-6 xl:gap-8">
             <a href="{{ route('home') }}" class="group flex items-center gap-2">
-                <img src="https://storage.ntewallpapers.com/assets/logo.png" alt="{{ env('APP_NAME') }} Logo" class="h-9 w-auto group-hover:scale-105 transition-transform">
+                <img src="https://storage.waifuwall.com/assets/logo.png" alt="{{ env('APP_NAME') }} Logo" class="h-9 w-auto group-hover:scale-105 transition-transform">
             </a>
 
             <div class="flex items-center bg-gray-800/50 rounded-full p-1 border border-gray-700/50 relative overflow-x-auto no-scrollbar">

@@ -51,7 +51,7 @@ class Post extends Model
     {
         return $this->belongsTo(User::class, 'user_id')->withDefault([
             'name' => 'Unknown User',
-            'email' => 'unknown@ntewallpapers.com',
+            'email' => 'unknown@waifuwall.com',
         ]);
     }
 
