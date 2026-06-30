@@ -15,7 +15,7 @@
         </picture>
         
         <div class="absolute inset-0 bg-gradient-to-t from-gray-900 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300 flex flex-col justify-end p-4 z-10">
-            <h3 class="text-white text-sm font-bold truncate drop-shadow-md">{{ $wallpaper->title }}</h3>
+            <div class="text-white text-sm font-bold truncate drop-shadow-md">{{ $wallpaper->title }}</div>
             <div class="flex items-center justify-between mt-1">
                 <span class="text-xs text-gray-300 flex items-center gap-1">
                     <svg class="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">

@@ -96,7 +96,7 @@
                 <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
 
                     <a href="{{ route('characters.index') }}" class="group relative h-40 rounded-2xl overflow-hidden border border-gray-700 hover:border-pink-500 transition-all duration-300">
-                        <img src="https://storage.waifuwall.com/thumbnail/000/000/024/24.webp" class="w-full h-full object-cover transition duration-700 group-hover:scale-110 opacity-50 group-hover:opacity-70">
+                        <img src="https://storage.waifuwall.com/thumbnail/000/000/024/24.webp" class="w-full h-full object-cover transition duration-700 group-hover:scale-110 opacity-50 group-hover:opacity-70" alt="Characters - Meet your legendary waifus and heroes">
                         <div class="absolute inset-0 bg-gradient-to-t from-gray-900 via-gray-900/20 to-transparent"></div>
                         <div class="absolute bottom-0 left-0 p-5">
                             <h3 class="text-xl font-bold text-white group-hover:text-pink-400 transition">Characters</h3>
@@ -105,7 +105,7 @@
                     </a>
 
                     <a href="{{ route('series.index') }}" class="group relative h-40 rounded-2xl overflow-hidden border border-gray-700 hover:border-cyan-500 transition-all duration-300">
-                        <img src="https://storage.waifuwall.com/thumbnail/000/000/065/65.webp" class="w-full h-full object-cover transition duration-700 group-hover:scale-110 opacity-50 group-hover:opacity-70">
+                        <img src="https://storage.waifuwall.com/thumbnail/000/000/065/65.webp" class="w-full h-full object-cover transition duration-700 group-hover:scale-110 opacity-50 group-hover:opacity-70" alt="Series - Explore worlds from Anime and Games">
                         <div class="absolute inset-0 bg-gradient-to-t from-gray-900 via-gray-900/20 to-transparent"></div>
                         <div class="absolute bottom-0 left-0 p-5">
                             <h3 class="text-xl font-bold text-white group-hover:text-cyan-400 transition">Series</h3>
@@ -114,7 +114,7 @@
                     </a>
 
                     <a href="{{ route('tags.index') }}" class="group relative h-40 rounded-2xl overflow-hidden border border-gray-700 hover:border-emerald-500 transition-all duration-300">
-                        <img src="https://storage.waifuwall.com/thumbnail/000/000/097/97.webp" class="w-full h-full object-cover transition duration-700 group-hover:scale-110 opacity-50 group-hover:opacity-70">
+                        <img src="https://storage.waifuwall.com/thumbnail/000/000/097/97.webp" class="w-full h-full object-cover transition duration-700 group-hover:scale-110 opacity-50 group-hover:opacity-70" alt="Tags - Filter by style, mood, or specific traits">
                         <div class="absolute inset-0 bg-gradient-to-t from-gray-900 via-gray-900/20 to-transparent"></div>
                         <div class="absolute bottom-0 left-0 p-5">
                             <h3 class="text-xl font-bold text-white group-hover:text-emerald-400 transition">Tags</h3>

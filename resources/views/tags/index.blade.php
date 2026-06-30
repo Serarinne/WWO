@@ -116,9 +116,9 @@
                             </div>
 
                             <div class="absolute bottom-0 left-0 right-0 p-3 transform translate-y-1 group-hover:translate-y-0 transition-transform duration-300">
-                                <h3 class="font-bold text-white text-sm md:text-base truncate text-center group-hover:text-cyan-400 transition-colors">
+                                <div class="font-bold text-white text-sm md:text-base truncate text-center group-hover:text-cyan-400 transition-colors">
                                     {{ $tag->name }}
-                                </h3>
+                                </div>
                                 @if(isset($tag->wallpapers_count))
                                     <p class="text-[10px] text-gray-400 text-center opacity-0 group-hover:opacity-100 transition-opacity uppercase tracking-wider">
                                         {{ $tag->wallpapers_count }} wallpapers

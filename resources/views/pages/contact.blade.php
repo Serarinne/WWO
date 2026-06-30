@@ -100,7 +100,7 @@
                 <div class="absolute top-0 left-0 w-full h-1 bg-gradient-to-r from-transparent via-cyan-500 to-transparent opacity-50"></div>
 
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
-                    
+    
                     <!-- General Support -->
                     <a href="mailto:support@waifuwall.com" class="flex items-start p-5 rounded-xl bg-gray-900/50 border border-gray-700/50 hover:border-cyan-500/50 transition-all group hover:bg-gray-800/80">
                         <div class="p-3 bg-cyan-900/30 text-cyan-400 rounded-lg group-hover:bg-cyan-500 group-hover:text-white transition-colors">
@@ -111,7 +111,7 @@
                         <div class="ml-4">
                             <h3 class="text-lg font-semibold text-white group-hover:text-cyan-400 transition-colors">General Support</h3>
                             <p class="text-sm text-gray-400 mt-1 mb-2">For general questions, feedback, and user assistance.</p>
-                            <span class="text-cyan-500 font-medium text-sm">support@waifuwall.com</span>
+                            <span class="text-cyan-400 font-medium text-sm">support@waifuwall.com</span>
                         </div>
                     </a>
 
@@ -125,7 +125,7 @@
                         <div class="ml-4">
                             <h3 class="text-lg font-semibold text-white group-hover:text-blue-400 transition-colors">Admin & Business</h3>
                             <p class="text-sm text-gray-400 mt-1 mb-2">For business inquiries, partnerships, and advertising.</p>
-                            <span class="text-blue-500 font-medium text-sm">admin@waifuwall.com</span>
+                            <span class="text-blue-400 font-medium text-sm">admin@waifuwall.com</span>
                         </div>
                     </a>
 
@@ -139,7 +139,7 @@
                         <div class="ml-4">
                             <h3 class="text-lg font-semibold text-white group-hover:text-red-400 transition-colors">DMCA & Copyright</h3>
                             <p class="text-sm text-gray-400 mt-1 mb-2">For reporting copyright infringement or content removal requests.</p>
-                            <span class="text-red-500 font-medium text-sm">dmca@waifuwall.com</span>
+                            <span class="text-red-400 font-medium text-sm">dmca@waifuwall.com</span>
                         </div>
                     </a>
 
@@ -153,7 +153,7 @@
                         <div class="ml-4">
                             <h3 class="text-lg font-semibold text-white group-hover:text-purple-400 transition-colors">Artist Inquiry</h3>
                             <p class="text-sm text-gray-400 mt-1 mb-2">For creators wanting to submit artwork or claim profiles.</p>
-                            <span class="text-purple-500 font-medium text-sm">artist@waifuwall.com</span>
+                            <span class="text-purple-400 font-medium text-sm">artist@waifuwall.com</span>
                         </div>
                     </a>
 

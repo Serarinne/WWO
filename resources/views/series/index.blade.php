@@ -118,9 +118,9 @@
                             </div>
 
                             <div class="absolute bottom-0 left-0 right-0 p-4 transform translate-y-1 group-hover:translate-y-0 transition-transform duration-300">
-                                <h3 class="font-bold text-white text-sm md:text-base truncate leading-tight group-hover:text-cyan-400 transition-colors" title="{{ $item->name }}">
+                                <div class="font-bold text-white text-sm md:text-base truncate leading-tight group-hover:text-cyan-400 transition-colors" title="{{ $item->name }}">
                                     {{ $item->name }}
-                                </h3>
+                                </div>
                             </div>
                         </a>
                     </article>

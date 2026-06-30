@@ -96,9 +96,9 @@
                                 </div>
                                 
                                 <div class="mt-3">
-                                    <h3 class="text-lg font-bold text-white group-hover:text-cyan-400 transition-colors truncate">
+                                    <div class="text-lg font-bold text-white group-hover:text-cyan-400 transition-colors truncate">
                                         {{ $artist->name }}
-                                    </h3>
+                                    </div>
                                     <p class="text-xs text-gray-400 mt-1 uppercase font-semibold tracking-tighter">
                                         {{ number_format($artist->wallpapers->count()) }} Works
                                     </p>
