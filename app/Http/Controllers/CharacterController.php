@@ -14,6 +14,7 @@ class CharacterController extends Controller
         $search = trim((string) $request->input('q'));
 
         $characters = Character::query()
+            ->with('series')
             ->select([
                 'characters.id',
                 'characters.slug',
@@ -36,6 +37,7 @@ class CharacterController extends Controller
     public function show(Request $request, Series $series, Character $character)
     {
         $character = Character::query()
+            ->with('series')
             ->select([
                 'characters.id',
                 'characters.slug',
