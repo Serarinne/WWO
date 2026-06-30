@@ -106,6 +106,7 @@ class SeriesController extends Controller
 
         // 2. Ambil daftar karakter yang terhubung dengan series ini
         $characters = $series->characters()
+            ->with('series')
             ->select([
                 'characters.id',
                 'characters.slug',
